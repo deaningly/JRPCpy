@@ -14,7 +14,7 @@ Clone repo, i most likely wont upload to pip
 ## Example
 
 ```
-from jrpc import JRPC
+from JRPCpy import JRPC
 import struct
 
 xbox_ip = "192.168.1.2"
